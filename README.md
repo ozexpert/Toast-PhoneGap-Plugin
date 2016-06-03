@@ -1,3 +1,7 @@
+# Forked Version
+
+This is a forked version to show toast in better position when set to bottom.
+
 # PhoneGap Toast plugin
 
 for Android, iOS and WP8, by [Eddy Verbruggen](http://www.x-services.nl/phonegap-toast-plugin/796)
